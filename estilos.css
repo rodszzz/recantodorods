@@ -4,4 +4,11 @@ body {
 }
 
 div {
+
+}
+
+.container-1 .container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
